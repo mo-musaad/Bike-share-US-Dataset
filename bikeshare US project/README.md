@@ -53,6 +53,6 @@ Finally, the user is prompted with the choice of restarting the program or not.
 
 # Author
 
- * [Mohamed musaad]([https://github.com/aritra96](https://www.linkedin.com/in/mohamed-musaad-aamer-a2a633202/)) 
+ * [Mohamed musaad](https://www.linkedin.com/in/mohamed-musaad-aamer-a2a633202/)
   
 
