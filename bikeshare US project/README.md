@@ -53,12 +53,6 @@ Finally, the user is prompted with the choice of restarting the program or not.
 
 # Author
 
- * [Aritra Chattaraj](https://github.com/aritra96) - Sole author for this program. Mentioned all the help received in 'Acknowledgements' section.
+ * [Mohamed musaad]([https://github.com/aritra96](https://www.linkedin.com/in/mohamed-musaad-aamer-a2a633202/)) 
   
-# Acknowledgements
 
-* [xhlow](https://github.com/xhlow) - xhlow's repository helped with understanding the structure and details of certain functions.
-* [philribbens](https://github.com/philribbens) - philribben's repository also added to better understanding of the structure for this project.
-* [pandas docs](http://pandas.pydata.org/pandas-docs/stable/) - pandas documentation was immensely helpful in understanding the implemention of pandas methods used in this project.
-* [Udacity](https://udacity.com) - Udacity's Data Analyst Nanodegree program and their instructors were extremely helpful while I was pursuing this project.
-* Finally, I'd like to mention my college courses on Principles of Econometrics and Intermediary Econometrics for introducing me to data analysis and R programming. The concepts embodied in the pandas library (e.g. data frame) were very similar to the ones used while I was working on my R projects for college assignments.
